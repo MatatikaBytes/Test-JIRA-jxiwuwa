@@ -1,5 +1,5 @@
 version: workspaces/v0.2
-name: Test JIRA
+name: Test NxtPath
 app_properties:
   WELCOME_DATASET_ALIAS: welcome
 default_data_store: Warehouse
